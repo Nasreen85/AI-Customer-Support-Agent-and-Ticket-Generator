@@ -1,5 +1,0 @@
-# Skeleton dependencies
-google
-requests
-
-
